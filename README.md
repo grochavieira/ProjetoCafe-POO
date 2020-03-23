@@ -80,7 +80,7 @@
   <img width="70%" height="70%" src="smart_coffe_images/reabastecer_copos.png">
 </p>
 
-  Assim, caso você queira fazer mais cafés, é necessário repor os ingredientes que faltam na aba ingredientes, e como é possível visuallizar, realmente está faltando pouca água:
+  Assim, caso você queira fazer mais cafés, é necessário repor os ingredientes que faltam na aba ingredientes, e como é possível visualizar, realmente está faltando pouca água:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao4.png">
@@ -134,7 +134,7 @@ E quando voltar novamente para a aba ingredientes, verá que a barra da água es
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao9.png">
 </p>
 
-E, como sempre, se não essa percepção não foi possível, basta clicar no botão <b>Listar Ingredientes</b> para ter os valores exatos.
+E, como sempre, se essa percepção não foi possível, basta clicar no botão <b>Listar Ingredientes</b> para ter os valores exatos.
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao10.png">
@@ -153,6 +153,14 @@ E, como sempre, se não essa percepção não foi possível, basta clicar no bot
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao12.png">
 </p>
+
+  E caso você tente pressionar um dos botões para fazer café, ele apresentará a seguinte mensagem:
+
+<p align="center">
+  <img width="70%" height="70%" src="smart_coffe_images/cafeteira_desligada.png">
+</p>
+
+  E como ele não está conectado a cafeteira, ele não conseguiria acessar seu banco de dados, logo ele não é capaz de mostrar a quantidade de cada ingrediente, como é possível ver na imagem abaixo, tanto que as barrinhas estão vazias, além de apresentar uma mensagem de erro:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao13.png">
