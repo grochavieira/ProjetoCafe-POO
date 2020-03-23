@@ -75,22 +75,49 @@
 </p>
 
   E caso não tenha copos, ele também apresenta uma mensagem de erro:
+  
+<p align="center">
+  <img width="70%" height="70%" src="smart_coffe_images/reabastecer_copos.png">
+</p>
+
+  Assim, caso você queira fazer mais cafés, é necessário repor os ingredientes que faltam na aba ingredientes, e como é possível visuallizar, realmente está faltando pouca água:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao4.png">
 </p>
 
+  Caso as barras não sejam o suficiente para você perceber isso, ao clicar no botão <b>Listar Ingredientes</b>, ele lista a exata quantidade que tem de cada ingrediente, e como é possível observar, a água tem apenas 43.0ml, e como o expresso exige 180ml, 180 - 43 = 137.0ml que está faltando, exatamente a mesma quantidade indicada pela aplicação:
+
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao5.png">
 </p>
+
+  Assim, para repor a água, basta selecionar seu ícone, na qual vai aparecer um campo para digitar a quantidade de água a ser depositada, e para efetivamente reabastecer, basta apertar o botão <b>Depositar Ingredientes</b>:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao6.png">
 </p>
 
+  E então a barrinha da água vai encher um pouco, indicando que o ingrediente foi reabastecido:
+
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao7.png">
 </p>
+
+  Caso você deposite além do limite do reservatório de cada ingrediente, como no exemplo abaixo, ele vai preencher toda a barra do ingrediente, e o que sobrar será apresentado em uma mensagem:
+  
+<p align="center">
+  <img width="70%" height="70%" src="smart_coffe_images/exemplo_deposito1.png">
+</p>
+
+<p align="center">
+  <img width="70%" height="70%" src="smart_coffe_images/exemplo_deposito2.png">
+</p>
+
+<p align="center">
+  <img width="70%" height="70%" src="smart_coffe_images/exemplo_deposito3.png">
+</p>
+
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao8.png">
