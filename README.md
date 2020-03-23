@@ -104,36 +104,51 @@
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao7.png">
 </p>
 
-  Caso você deposite além do limite do reservatório de cada ingrediente, como no exemplo abaixo, ele vai preencher toda a barra do ingrediente, e o que sobrar será apresentado em uma mensagem:
+  Caso você deposite além do limite do reservatório de cada ingrediente, como no exemplo abaixo para o café, a seguinte mensagem será mostrada:
   
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/exemplo_deposito1.png">
 </p>
 
+  Porém, ele ainda vai preencher toda a barra do ingrediente, e como o reservatório de café é de no máximo 500 gramas, e já tinha 166,3 gramas, 500 - 166,3 = 333,7 gramas que faltam para preencher o reservatório, como foram adicionadas 1000 gramas, 1000 - 333,7 = 666,3,  que é exatamente o tanto que sobrou e que foi mostrado na mensagem abaixo:
+
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/exemplo_deposito2.png">
 </p>
+
+  E como foi dito, o reservatório do café foi totalmente preenchido:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/exemplo_deposito3.png">
 </p>
 
+  Após esse processo de repor os ingredientes, você pode novamente voltar para a aba menu e pedir para a cafeteira fazer um café expresso:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao8.png">
 </p>
 
+E quando voltar novamente para a aba ingredientes, verá que a barra da água está vazia, já que foi utilizada toda a agua que foi reposta e a que já tinha, e como também diminui a barra do café e açucar:
+
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao9.png">
 </p>
+
+E, como sempre, se não essa percepção não foi possível, basta clicar no botão <b>Listar Ingredientes</b> para ter os valores exatos.
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao10.png">
 </p>
 
+### Conexão
+
+  Como foi explicado, a aplicação não está realmente conectada á uma cafeteira, já que se trata de uma simulação, logo é possível mudar os valores da conexão livremente, para mostrar como seria em uma situação real se não existisse conectividade entre a aplicação e a cafeteira. O botão de conexão serve para indicar se o aplicativo está conectado a internet, e o status para mostrar se está conectado à cafeteira, logo a cor verde indica que está conectado, enquanto que o vermelho seria não conectado:
+
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao11.png">
 </p>
+
+  Se não houver conexão e você acessar a aba menu, logo de cara você percebe que ele não indica a quantidade de copos da cafeteira, assim como desabilita o botão <b>Depositar Copos</b>:
 
 <p align="center">
   <img width="70%" height="70%" src="smart_coffe_images/tela_menu_explicacao12.png">
